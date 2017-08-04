@@ -1,0 +1,6 @@
+[package]
+name = "zmap"
+version = "0.0.1"
+authors = ["David Adrian <davidcadrian@gmail.com>"]
+
+[dependencies]
