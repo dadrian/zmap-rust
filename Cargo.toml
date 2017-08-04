@@ -3,7 +3,7 @@ name = "zmap"
 version = "0.0.1"
 authors = ["David Adrian <davidcadrian@gmail.com>"]
 description = "A fast single packet network scanner designed for Internet-wide network surveys."
-homepage = "zmap.io"
+homepage = "https://zmap.io"
 license = "Apache-2.0"
 
 [dependencies]
